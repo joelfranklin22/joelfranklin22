@@ -1,6 +1,7 @@
 # 💫 About Me:
-💫 About Me<br><br>Hi 👋, I'm Joel Franklin<br><br>💻 Aspiring Full Stack Developer from India<br>🎓 BE Computer Science Graduate<br>🌱 Currently learning React, Node.js, Express.js, MySQL & n8n<br>🧩 Passionate about solving Data Structures & Algorithms using Java<br>🚀 Building modern, scalable full-stack web applications and workflow automations<br>🤖 Exploring AI-powered automations with n8n<br>📚 Always learning new technologies and improving my problem-solving skills<br><br><br>🌐 Connect with Me<br>📧 joeljeyam22@gmail.com
+Hi 👋, I'm Joel Franklin<br><br>💻 Aspiring Full Stack Developer from India<br>🎓 BE Computer Science Graduate<br>🌱 Currently learning React, Node.js, Express.js, MySQL & n8n<br>🧩 Passionate about solving Data Structures & Algorithms using Java<br>🚀 Building modern, scalable full-stack web applications and workflow automations<br>🤖 Exploring AI-powered automations with n8n<br>📚 Always learning new technologies and improving my problem-solving skills<br><br><br>🌐 Connect with Me<br>📧 joeljeyam22@gmail.com
 
+> *"Success is the sum of small efforts, repeated day in and day out."* — Robert Collier
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/joelfranklin22/) 
@@ -12,4 +13,4 @@
 ![](https://streak-stats.demolab.com/?user=joelfranklin22&theme=aura&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=joelfranklin22&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
