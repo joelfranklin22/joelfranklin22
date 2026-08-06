@@ -1,6 +1,5 @@
 <div align="center">
-*"Success is the sum of small efforts, repeated day in and day out."*  
-— **Robert Collier**
+> *"Success is the sum of small efforts, repeated day in and day out."* — Robert Collier
 </div>
 
 # 💫 About Me:
