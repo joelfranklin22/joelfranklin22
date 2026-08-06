@@ -1,6 +1,6 @@
-<div align="center">
+
 > *"Success is the sum of small efforts, repeated day in and day out."* — Robert Collier
-</div>
+
 
 # 💫 About Me:
 Hi 👋, I'm Joel Franklin<br><br>💻 Aspiring Full Stack Developer from India<br>🎓 BE Computer Science Graduate<br>🌱 Currently learning React, Node.js, Express.js, MySQL & n8n<br>🧩 Passionate about solving Data Structures & Algorithms using Java<br>🚀 Building modern, scalable full-stack web applications and workflow automations<br>🤖 Exploring AI-powered automations with n8n<br>📚 Always learning new technologies and improving my problem-solving skills<br><br><br>🌐 Connect with Me<br>📧 joeljeyam22@gmail.com
